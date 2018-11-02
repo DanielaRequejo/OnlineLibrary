@@ -1,2 +1,2 @@
-# OnlineLibrary
-Msql, Html, Css and PHP
+# ONLINE-LIBRARY
+Web Application for renting books, with users and admins
